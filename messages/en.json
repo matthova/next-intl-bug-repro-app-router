@@ -1,5 +1,9 @@
 {
   "IndexPage": {
-    "title": "Hello!"
+    "title": "Hello!",
+    "linkDescription": "Go to 'About' Page"
+  },
+  "AboutPage": {
+    "title": "About Page"
   }
 }
